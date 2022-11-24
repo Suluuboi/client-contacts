@@ -1,0 +1,16 @@
+{
+  "name": "suluuboi/client-contacts",
+  "description": "back-end to add clients and all thier contacts to a mysql database",
+  "autoload": {
+    "psr-4": {
+      "Suluuboi\\ClientContacts\\": "."
+    }
+  },
+  "authors": [
+    {
+      "name": "Hans",
+      "email": "hansmbangu@gmail.com"
+    }
+  ],
+  "require": {}
+}
